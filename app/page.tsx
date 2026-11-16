@@ -1,4 +1,4 @@
-
+"use client";
 const stories = [
   {
     category: "CRICKET NEWS",
